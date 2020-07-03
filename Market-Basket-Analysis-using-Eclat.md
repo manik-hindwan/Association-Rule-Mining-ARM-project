@@ -80,7 +80,7 @@ frequent_items <- eclat(data = Groceries, parameter = list(supp = 0.004, minlen 
     ## create itemset ... 
     ## set transactions ...[169 item(s), 9835 transaction(s)] done [0.00s].
     ## sorting and recoding items ... [126 item(s)] done [0.00s].
-    ## creating sparse bit matrix ... [126 row(s), 9835 column(s)] done [0.02s].
+    ## creating sparse bit matrix ... [126 row(s), 9835 column(s)] done [0.00s].
     ## writing  ... [1272 set(s)] done [0.02s].
     ## Creating S4 object  ... done [0.00s].
 
