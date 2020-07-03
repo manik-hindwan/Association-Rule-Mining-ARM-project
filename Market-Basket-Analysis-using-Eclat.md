@@ -4,7 +4,7 @@ Market Basket analysis using ECAT algorithm
 ECLAT algorithm
 ---------------
 
-We will be implementing ECLAT algorithm, which is nothing but a vertical for of apriori which is faster, using R because of lack of any stable library for doing the same in Python.
+We will be implementing ECLAT algorithm, which is nothing but a vertical form of apriori which is faster, using R because of lack of any stable library for doing the same in Python.
 
 Loading the dataset and the packages
 ------------------------------------
